@@ -1,1 +1,12 @@
-.background color:
+body {
+
+  background-color: grey;
+}
+
+h1 {
+  color: orange;
+}
+
+p {
+  text-indent: 20px;
+}
