@@ -9,4 +9,17 @@ h1 {
 
 p {
   text-indent: 20px;
+  color: orange;
+}
+
+h1 {
+  text-indent: 20px;
+}
+
+h2 {
+  text-indent: 10px;
+}
+
+a {
+  color: #d80f0f;
 }
