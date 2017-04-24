@@ -24,9 +24,20 @@ a {
   color: #d80f0f;
 }
 
+.footer {
+  position: absolute;
+   right: 0;
+   bottom: 0;
+   left: 0;
+   padding: 0;
+   background-color: #efefef;
+   text-align: center;
+
+}
+
 .fa {
-  padding: 20px;
-  font-size: 30px;
+  padding: 18px;
+  font-size: 35px;
   width: 50px;
   text-align: center;
   text-decoration: none;
